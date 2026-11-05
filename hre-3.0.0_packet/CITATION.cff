@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite the accompanying paper."
+title: "hre-3.0.0: Electricity demand from humanoid robots to 2050"
+version: 3.0.0
+date-released: 2026-11-05
+license: MIT
+repository-code: "https://github.com/juhanimerilehto/future2050"
+authors:
+  - family-names: Merilehto
+    given-names: Juhani
+    affiliation: "Oulu University of Applied Sciences; University of Turku"
+references:
+  - type: report
+    title: "Electricity demand from humanoid robots in 2035: a constrained scenario estimate with a global sensitivity analysis"
+    authors:
+      - family-names: Merilehto
+        given-names: Juhani
+    year: 2026
+    doi: 10.5281/zenodo.22538130

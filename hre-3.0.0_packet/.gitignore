@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+run.log
+paper/*.aux
+paper/*.log
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.blg
+paper/*.out
+paper/build.log

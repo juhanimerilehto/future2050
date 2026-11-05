@@ -1,0 +1,274 @@
+\begin{thebibliography}{34}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bass(1969)]{bass1969}
+Frank~M. Bass.
+\newblock A new product growth for model consumer durables.
+\newblock \emph{Management Science}, 15\penalty0 (5):\penalty0 215--227, 1969.
+\newblock \doi{10.1287/mnsc.15.5.215}.
+
+\bibitem[{Berg Insight}(2026)]{berg2026}
+{Berg Insight}.
+\newblock Humanoid robot shipments forecast to reach 26 million annually by
+  2040.
+\newblock As reported by IoT Business News, 4 September, 2026.
+\newblock URL
+  \url{https://iotbusinessnews.com/2026/09/04/humanoid-robot-shipments-forecast-to-reach-26-million-annually-by-2040/}.
+\newblock Retrieved 28 October 2026.
+
+\bibitem[{BofA Global Research}(2026)]{bofa2026}
+{BofA Global Research}.
+\newblock {Physical AI, part 2: Humanoid robots}.
+\newblock Bank of America Institute, Transformation series, 12 March, 2026.
+\newblock URL
+  \url{https://institute.bankofamerica.com/content/dam/transformation/physical-ai-part-2.pdf}.
+\newblock Retrieved 28 October 2026.
+
+\bibitem[{Citi GPS}(2024)]{citi2024}
+{Citi GPS}.
+\newblock The rise of {AI} robots: humanoids are coming for you.
+\newblock Citi Global Insights, 4 November, 2024.
+\newblock URL
+  \url{https://www.citigroup.com/global/insights/the-rise-of-ai-robots-humanoids-are-coming-for-you}.
+\newblock Retrieved 29 October 2026.
+
+\bibitem[{Figure AI}(2026)]{figure2026}
+{Figure AI}.
+\newblock Ramping {Figure 03} production, 2026.
+\newblock URL \url{https://www.figure.ai/news/ramping-figure-03-production}.
+
+\bibitem[{Finnish Energy}(2025)]{finnishenergy2025}
+{Finnish Energy}.
+\newblock {Energy Year 2024: Electricity}.
+\newblock Energiateollisuus ry, Helsinki, January, 2025.
+\newblock URL
+  \url{https://energia.fi/wp-content/uploads/2025/01/Electricity-Year-2024_20250115.pdf}.
+
+\bibitem[Fisher and Pry(1971)]{fisherpry1971}
+J.~C. Fisher and R.~H. Pry.
+\newblock A simple substitution model of technological change.
+\newblock \emph{Technological Forecasting and Social Change}, 3:\penalty0
+  75--88, 1971.
+\newblock \doi{10.1016/S0040-1625(71)80005-7}.
+
+\bibitem[{Gartner}(2026)]{gartner2026}
+{Gartner}.
+\newblock Gartner says data center electricity consumption to grow 26\,\% in
+  2026.
+\newblock Press release, Stamford, 10 June, 2026.
+\newblock URL
+  \url{https://www.gartner.com/en/newsroom/press-releases/2026-06-10-gartner-says-data-center-electricity-demand-to-grow-26-percent-in-2026}.
+\newblock Retrieved 5 November 2026.
+
+\bibitem[{Goldman Sachs Research}(2026)]{gs2026}
+{Goldman Sachs Research}.
+\newblock Physical {AI}: humanoid robot forecast.
+\newblock As reported by 24/7 Wall St., ``Goldman Sachs now sees 6.5 million
+  humanoid robots by 2035'', 13 September, 2026.
+\newblock URL
+  \url{https://247wallst.com/investing/2026/09/13/robots-everywhere-goldman-sachs-now-sees-6-5-million-humanoid-robots-by-2035/}.
+\newblock Retrieved 28 October 2026.
+
+\bibitem[Griliches(1957)]{griliches1957}
+Zvi Griliches.
+\newblock Hybrid corn: an exploration in the economics of technological change.
+\newblock \emph{Econometrica}, 25\penalty0 (4):\penalty0 501--522, 1957.
+\newblock \doi{10.2307/1905380}.
+
+\bibitem[{Hyundai Motor Group}(2026)]{hyundai2026}
+{Hyundai Motor Group}.
+\newblock Robotics strategy, {CES} 2026, 2026.
+\newblock URL
+  \url{https://www.hyundai.com/worldwide/en/newsroom/detail/0000001100}.
+
+\bibitem[{IDC}(2026)]{idc2026blog}
+{IDC}.
+\newblock Humanoids hit hardest, {Europe} gains.
+\newblock IDC Resource Center blog, 22 October, 2026.
+\newblock URL
+  \url{https://www.idc.com/resource-center/blog/us-robotics-ban-humanoids-europe/}.
+\newblock Retrieved 5 November 2026.
+
+\bibitem[{International Energy Agency}(2026{\natexlab{a}})]{iea2026elec}
+{International Energy Agency}.
+\newblock {Electricity 2026}: Analysis and forecast to 2030.
+\newblock IEA, Paris, February, 2026{\natexlab{a}}.
+\newblock URL \url{https://www.iea.org/reports/electricity-2026/demand}.
+\newblock Retrieved 5 November 2026.
+
+\bibitem[{International Energy Agency}(2026{\natexlab{b}})]{iea2026kq}
+{International Energy Agency}.
+\newblock Key questions on energy and {AI}.
+\newblock World Energy Outlook special report, IEA, Paris, April,
+  2026{\natexlab{b}}.
+\newblock URL
+  \url{https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary}.
+\newblock Retrieved 5 November 2026.
+
+\bibitem[{International Federation of
+  Robotics}(2026{\natexlab{a}})]{ifr2026service}
+{International Federation of Robotics}.
+\newblock Global sales of professional service robots surge 24\,\%.
+\newblock Press release, World Robotics 2026 -- Service Robots, Frankfurt, 30
+  September, 2026{\natexlab{a}}.
+\newblock URL
+  \url{https://www.sttinfo.fi/tiedote/72371344/global-sales-of-professional-service-robots-surge-24percent}.
+\newblock Sample of 238 suppliers, not projected to the whole industry.
+  Retrieved 28 October 2026.
+
+\bibitem[{International Federation of
+  Robotics}(2026{\natexlab{b}})]{ifr2026world}
+{International Federation of Robotics}.
+\newblock {World Robotics 2026}: global industrial robot installations
+  2015--2025.
+\newblock World Robotics 2026 press chart, 2026{\natexlab{b}}.
+\newblock URL
+  \url{https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png}.
+
+\bibitem[Jansen(1999)]{jansen1999}
+Michiel J.~W. Jansen.
+\newblock Analysis of variance designs for model output.
+\newblock \emph{Computer Physics Communications}, 117\penalty0 (1--2):\penalty0
+  35--43, 1999.
+\newblock \doi{10.1016/S0010-4655(98)00154-4}.
+
+\bibitem[Kashiri et~al.(2018)Kashiri, Abate, Abram, Albu-Sch{\"a}ffer,
+  et~al.]{kashiri2018}
+Navvab Kashiri, Andy Abate, Sabrina~J. Abram, Alin Albu-Sch{\"a}ffer, et~al.
+\newblock An overview on principles for energy efficient robot locomotion.
+\newblock \emph{Frontiers in Robotics and AI}, 5:\penalty0 129, 2018.
+\newblock \doi{10.3389/frobt.2018.00129}.
+
+\bibitem[Koetsier(2026)]{idc2026}
+John Koetsier.
+\newblock Humanoid robot shipments jump 432\,\%, {China} has 95\,\% market
+  share.
+\newblock Forbes, 30 September. Secondary carrier of IDC, SAG and Counterpoint
+  shipment data, 2026.
+\newblock URL
+  \url{https://www.forbes.com/sites/johnkoetsier/2026/09/30/humanoid-robot-shipments-jump-432-china-has-95-market-share/}.
+\newblock Retrieved 28 October 2026.
+
+\bibitem[Korosec and O'Kane(2026)]{tesla2026q3}
+Kirsten Korosec and Sean O'Kane.
+\newblock Tesla starts {Optimus} robot production in {California} as profit
+  falls 43\,\%.
+\newblock TechCrunch, 21 October. Reports Tesla's Q3 2026 update and earnings
+  call, 2026.
+\newblock URL
+  \url{https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/}.
+
+\bibitem[Malik(2026)]{notatesla2026}
+Nehal Malik.
+\newblock Tesla officially begins {Optimus} robot production.
+\newblock Not a Tesla App, 22 October, 2026.
+\newblock URL
+  \url{https://www.notateslaapp.com/news/4866/tesla-officially-begins-optimus-robot-production}.
+
+\bibitem[Merilehto(2026{\natexlab{a}})]{gasum2026}
+Juhani Merilehto.
+\newblock Suomen s{\"a}hk{\"o}markkinan j{\"a}lkiteollinen vallankumous --
+  datakeskusten tulo vaatii joustoa muilta markkinatoimijoilta.
+\newblock Gasum Impulssi market review, 5 October, 2026{\natexlab{a}}.
+\newblock URL
+  \url{https://www.gasum.com/fi/uutiset-ja-asiakastarinat/blogit/2026/suomen-sahkomarkkinan-jalkiteollinen-vallankumous--datakeskusten-tulo-vaatii-joustoa-muilta-markkinatoimijoilta/}.
+
+\bibitem[Merilehto(2026{\natexlab{b}})]{merilehto2026a}
+Juhani Merilehto.
+\newblock Electricity demand from humanoid robots in 2035: a constrained
+  scenario estimate with a global sensitivity analysis.
+\newblock Technical report, model version hre-2.0.0, 2026{\natexlab{b}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.22538130}.
+\newblock Data cutoff 4 September 2026.
+
+\bibitem[Merilehto(2026{\natexlab{c}})]{merilehto2026b}
+Juhani Merilehto.
+\newblock Reproducibility packet: Electricity demand from humanoid robots in
+  2035, 2026{\natexlab{c}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.22729903}.
+
+\bibitem[Morgan and Henrion(1990)]{morgan1990}
+M.~Granger Morgan and Max Henrion.
+\newblock \emph{Uncertainty: A Guide to Dealing with Uncertainty in
+  Quantitative Risk and Policy Analysis}.
+\newblock Cambridge University Press, 1990.
+\newblock \doi{10.1017/CBO9780511840609}.
+
+\bibitem[{Morgan Stanley Research}(2025)]{ms2025}
+{Morgan Stanley Research}.
+\newblock Humanoids: a \$5 trillion market.
+\newblock Morgan Stanley Insights, 14 May; based on the report \emph{A \$5
+  Trillion Global Market}, 29 April 2025, 2025.
+\newblock URL
+  \url{https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050}.
+\newblock Retrieved 29 October 2026.
+
+\bibitem[Musk(2026)]{musk2026}
+Elon Musk.
+\newblock Remarks on humanoid robot deployment, virtual {G20} session, 1
+  {September} 2026.
+\newblock As reported by Seoul Economic Daily, 2 September, 2026.
+\newblock URL
+  \url{https://en.sedaily.com/international/2026/09/02/musk-says-humanoid-robots-will-outproduce-all-of-humanity}.
+
+\bibitem[{OICA}(2026)]{oica2026}
+{OICA}.
+\newblock Auto industry growth shifted east in 2025 amid global repositioning.
+\newblock Organisation Internationale des Constructeurs d'Automobiles, 23
+  April, 2026.
+\newblock URL
+  \url{https://oica.net/auto-industry-growth-shifted-east-in-2025-amid-global-repositioning/}.
+
+\bibitem[Pfenninger et~al.(2017)Pfenninger, DeCarolis, Hirth, Quoilin, and
+  Staffell]{pfenninger2017}
+Stefan Pfenninger, Joseph DeCarolis, Lion Hirth, Sylvain Quoilin, and Iain
+  Staffell.
+\newblock The importance of open data and software: is energy research lagging
+  behind?
+\newblock \emph{Energy Policy}, 101:\penalty0 211--215, 2017.
+\newblock \doi{10.1016/j.enpol.2016.11.046}.
+
+\bibitem[Saltelli et~al.(2010)Saltelli, Annoni, Azzini, Campolongo, Ratto, and
+  Tarantola]{saltelli2010}
+Andrea Saltelli, Paola Annoni, Ivano Azzini, Francesca Campolongo, Marco Ratto,
+  and Stefano Tarantola.
+\newblock Variance based sensitivity analysis of model output. {D}esign and
+  estimator for the total sensitivity index.
+\newblock \emph{Computer Physics Communications}, 181\penalty0 (2):\penalty0
+  259--270, 2010.
+\newblock \doi{10.1016/j.cpc.2009.09.018}.
+
+\bibitem[{UBTECH Robotics}(2026)]{ubtech2026}
+{UBTECH Robotics}.
+\newblock {Annual Report 2025}.
+\newblock HKEX filing, 14 April, 2026.
+\newblock URL
+  \url{https://www.hkexnews.hk/listedco/listconews/sehk/2026/0414/2026041401168.pdf}.
+
+\bibitem[{Unitree Robotics}(2026)]{unitree2026}
+{Unitree Robotics}.
+\newblock Prospectus for initial public offering on the {Shanghai} {STAR}
+  {Market}.
+\newblock 14 August, 2026.
+\newblock URL
+  \url{https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-14/688836_20260814_AJKD.pdf}.
+
+\bibitem[{US Bureau of Labor Statistics}(2026)]{bls2026}
+{US Bureau of Labor Statistics}.
+\newblock Occupational employment and wages, {May 2025}, 2026.
+\newblock URL \url{https://www.bls.gov/news.release/ocwage.t01.htm}.
+
+\bibitem[{Wood Mackenzie}(2026)]{woodmac2026}
+{Wood Mackenzie}.
+\newblock Wood {Mackenzie} forecasts global robotics power demand to reach 363
+  {TWh} by 2035.
+\newblock Press release accompanying \emph{Embodied AI: how robotics are
+  accelerating global power demand}, August 2026, 2026.
+\newblock URL
+  \url{https://www.woodmac.com/press-releases/wood-mackenzie-forecasts-global-robotics-power-demand-to-reach-363-twh-by-2035-approaching-frances-entire-nuclear-output/}.
+
+\end{thebibliography}
