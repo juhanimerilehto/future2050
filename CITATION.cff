@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this model or data, please cite it as below."
+title: "Electricity demand from humanoid robots to 2050: calibrated diffusion scenarios with a global sensitivity analysis"
+type: software
+authors:
+  - family-names: Merilehto
+    given-names: Juhani
+version: 3.0.0
+date-released: 2026-11-05
+repository-code: "https://github.com/juhanimerilehto/future2050"
+url: "https://github.com/juhanimerilehto/future2050/tree/v3.0.0"
+keywords:
+  - humanoid robots
+  - electricity demand
+  - diffusion scenarios
+  - global sensitivity analysis
+  - Sobol indices
+references:
+  - type: software
+    title: "hre-2.0.0: Humanoid-robot electricity demand"
+    authors:
+      - family-names: Merilehto
+        given-names: Juhani
+    doi: 10.5281/zenodo.22538130
