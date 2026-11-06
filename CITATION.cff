@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Merilehto
     given-names: Juhani
+    orcid: "https://orcid.org/0000-0002-8010-3725"
 version: 3.0.0
 doi: 10.5281/zenodo.24014696
 date-released: 2026-11-05
@@ -16,10 +17,24 @@ keywords:
   - diffusion scenarios
   - global sensitivity analysis
   - Sobol indices
+preferred-citation:
+  type: report
+  title: "Electricity demand from humanoid robots to 2050: calibrated diffusion scenarios with a global sensitivity analysis"
+  authors:
+    - family-names: Merilehto
+      given-names: Juhani
+      orcid: "https://orcid.org/0000-0002-8010-3725"
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.24014696
 references:
-  - type: software
-    title: "hre-2.0.0: Humanoid-robot electricity demand"
+  - type: report
+    title: "Electricity demand from humanoid robots in 2035: a constrained scenario estimate with a global sensitivity analysis"
     authors:
       - family-names: Merilehto
         given-names: Juhani
+    year: 2026
+    publisher:
+      name: Zenodo
     doi: 10.5281/zenodo.22538130
