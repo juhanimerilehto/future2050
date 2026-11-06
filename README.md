@@ -2,11 +2,10 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24014696-1f6feb.svg)](https://doi.org/10.5281/zenodo.24014696)
 [![Release](https://img.shields.io/badge/release-v3.0.0-1f6feb.svg)](https://github.com/juhanimerilehto/future2050/tree/v3.0.0)
-[![Previous version DOI](https://img.shields.io/badge/hre--2.0.0-10.5281%2Fzenodo.22538130-lightgrey.svg)](https://doi.org/10.5281/zenodo.22538130)
 
 **How much electricity could humanoid robots draw by 2050, and which assumptions decide it?**
 
-This repository holds the paper and reproducibility packet for *Electricity demand from humanoid robots to 2050: calibrated diffusion scenarios with a global sensitivity analysis* (Merilehto, 5 November 2026; [doi:10.5281/zenodo.24014696](https://doi.org/10.5281/zenodo.24014696)). Release **hre-3.0.0** extends [hre-2.0.0](https://doi.org/10.5281/zenodo.22538130) with:
+This repository holds the paper and reproducibility packet for *Electricity demand from humanoid robots to 2050: calibrated diffusion scenarios with a global sensitivity analysis* (Merilehto, 5 November 2026; [doi:10.5281/zenodo.24014696](https://doi.org/10.5281/zenodo.24014696)). Release **hre-3.0.0** features:
 
 - **Calibrated diffusion:** logistic deliveries with Weibull fleet cohorts, calibrated by log-least-squares to dated checkpoints and an industrial-robot analogue.
 - **Global sensitivity analysis:** grouped Sobol indices (Saltelli/Jansen), with an Ishigami validation of the estimator.
