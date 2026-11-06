@@ -6,6 +6,7 @@ authors:
   - family-names: Merilehto
     given-names: Juhani
 version: 3.0.0
+doi: 10.5281/zenodo.24014696
 date-released: 2026-11-05
 repository-code: "https://github.com/juhanimerilehto/future2050"
 url: "https://github.com/juhanimerilehto/future2050/tree/v3.0.0"
